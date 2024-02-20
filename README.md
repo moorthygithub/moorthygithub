@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moorthy</h1>
-<h3 align="center">Aspiring Instrumentation Engineer | Experienced with C, C++ and Sensor Integration | Research and Development</h3>
+<h3 align="center">Aspiring Instrumentation Engineer | Experienced with HTML,CSS,JAVASCRIPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
 
