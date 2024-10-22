@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Moorthy</h1>
-<h3 align="center">Aspiring Instrumentation Engineer | Experienced with HTML,CSS,JAVASCRIPT</h3>
+<h3 align="center">Aspiring Instrumentation Engineer | Experienced with HTML,CSS,JAVASCRIPT,TYPESCRIPT,PYTHON,MYSQL,MSSQL,MATERIALUI,MATERIALTAILWIND,TAILWIND,BOOTSTRAPREACTJS,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" /></a> </p>
 
-- 🔭 I’m currently working on **Fall detection using deep learning approaches**
+- 🔭 I’m currently working on **Ag Solutions**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning and Implementing  **Reactjs**
 
-- 👨‍💻 All of my projects are available at [moorthychandiran.netlify.app](moorthychandiran.netlify.app)
+- 👨‍💻 All of my projects are available at [https://moorthyprotfolio.netlify.app/](https://moorthyprotfolio.netlify.app/)
 
-- 💬 Ask me about **Research and Sensor integration**
+- 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **moorthy.ei19@bitsathy.ac.in**
 
