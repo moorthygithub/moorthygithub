@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ag Solutions**
 
-- 🌱 I’m currently learning and Implementing  **Reactjs**
+- 🌱 I’m currently Wroking as Frontend Developer **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://moorthyprotfolio.netlify.app/](https://moorthyprotfolio.netlify.app/)
 
