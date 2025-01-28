@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **moorthy.ei19@bitsathy.ac.in**
+- 📫 How to reach me **moorthy.chandiran21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
