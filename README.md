@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moorthy</h1>
 <h3 align="center">Aspiring Frontend Developer |Experienced with HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACTJS,PYTHON,MYSQL,MSSQL,MATERIALUI,MATERIALTAILWIND,TAILWIND,BOOTSTRAP</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sajid-tech&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" /></a> </p>
 
