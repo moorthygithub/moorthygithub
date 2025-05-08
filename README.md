@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://moorthyprotfolio.netlify.app">https://moorthyprotfolio.netlify.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://moorthyprotfolio.netlify.app" target="_blank">https://moorthyprotfolio.netlify.app</a>
 
 - 💬 Ask me about **React**
 
