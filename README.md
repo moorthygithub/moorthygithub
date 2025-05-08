@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [moorthychandiran.netlify.app](moorthychandiran.netlify.app)
+- 👨‍💻 All of my projects are available at [[moorthychandiran.netlify.app](https://moorthyprotfolio.netlify.app/)]
 
 - 💬 Ask me about **React**
 
