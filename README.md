@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ag solutions **
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript,Node Js,Express**
 
 - 👨‍💻 All of my projects are available at <a href="https://moorthyprotfolio.netlify.app" target="_blank">https://moorthyprotfolio.netlify.app</a>
 
