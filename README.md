@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moorthy</h1>
-<h3 align="center">Aspiring Frontend Developer |Experienced with HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACTJS,PYTHON,MYSQL,MSSQL,MATERIALUI,MATERIALTAILWIND,TAILWIND,BOOTSTRAP</h3>
+<h3 align="center">
+  Aspiring Frontend Developer | Experienced with HTML, CSS, JavaScript, TypeScript, ReactJS, Python, MySQL, MSSQL, Material UI, Material Tailwind, Tailwind CSS, Bootstrap, Radix UI, and TanStack Query
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
 
