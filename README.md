@@ -1,84 +1,88 @@
 <h1 align="center">Hi 👋, I'm Moorthy</h1>
 <h3 align="center">
-  Aspiring Frontend Developer | Experienced with HTML, CSS, JavaScript, TypeScript, ReactJS, Python, MySQL, MSSQL, Material UI, Material Tailwind, Tailwind CSS, Bootstrap, Radix UI, and TanStack Query
+  💻 Frontend Developer | Passionate Coder | UI Enthusiast
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="moorthygithub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" /></a> </p>
-
-- 🔭 I’m currently working on **Ag solutions **
-
-- 🌱 I’m currently learning **TypeScript,Node Js,Express**
-
-- 👨‍💻 All of my projects are available at <a href="https://moorthyprotfolio.netlify.app" target="_blank">https://moorthyprotfolio.netlify.app</a>
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **moorthy.chandiran21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moorthy chandiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moorthy chandiran" height="30" width="40" /></a>
-<!-- <a href="https://dribbble.com/moorthy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="moorthy46" height="30" width="40" /></a>
-<a href="https://www.behance.net/moorthyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="moorthyc" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<p align="center">
+  <a href="https://moorthyprotfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify" alt="Portfolio Badge"/>
   </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="mailto:moorthy.chandiran21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- SQL (using MySQL as an example) -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <!-- Radix UI (text link since logo is not standard) -->
-  <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/75042457?s=200&v=4" alt="Radix UI" width="40" height="40"/>
-  </a>
-  <!-- React Query -->
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1674448947252594688/ROAaHzsb_400x400.png" alt="React Query" width="40" height="40"/>
-  </a>
-  <!-- ShadCN UI (custom logo placeholder) -->
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://ui.shadcn.com/favicon.ico" alt="ShadCN UI" width="40" height="40"/>
-  </a>
-  <!-- Material UI -->
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <a href="https://linkedin.com/in/moorthychandiran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moorthygithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moorthygithub&show_icons=true&locale=en&layout=compact" alt="moorthygithub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moorthygithub&show_icons=true&locale=en" alt="moorthygithub" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moorthygithub&" alt="moorthygithub" /></p>
+- 🔭 I’m currently working at **AG Solutions**
+- 🌱 I’m learning **TypeScript, Node.js, Express**
+- 💬 Ask me about **React, UI/UX, Tailwind, or frontend frameworks**
+- 👨‍💻 All my projects are available at [My Portfolio](https://moorthyprotfolio.netlify.app)
+- 📫 Reach me at **moorthy.chandiran21@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/moorthychandiran" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Moorthy LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,mui,nodejs,express,mysql,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Radix_UI-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMuMC9zdmcnPjxjaXJjbGUgY3g9JzEyJyBjeT0nMTInIHI9JzEwJyBzdHJva2U9J2dyYXknIHN0cm9rZS13aWR0aD0nMicgZmlsbD0nbm9uZScvPjwvc3ZnPg==" width="24" height="24" alt="Radix UI" title="Radix UI"/>
+  &nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1674448947252594688/ROAaHzsb_400x400.png" width="24" height="24" alt="TanStack Query" title="TanStack Query" />
+  &nbsp;
+  <img src="https://ui.shadcn.com/favicon.ico" width="24" height="24" alt="ShadCN UI" title="ShadCN UI"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moorthygithub&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moorthygithub&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moorthygithub&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Fun Fact
+```bash
+I solve complex UI problems and debug like a detective 🕵️‍♂️ with React DevTools!
+
