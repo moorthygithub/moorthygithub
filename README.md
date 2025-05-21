@@ -10,7 +10,7 @@
   <a href="mailto:moorthy.chandiran21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
-  <a href="https://linkedin.com/in/moorthychandiran" target="_blank">
+  <a href="https://www.linkedin.com/in/moorthy-c-982333217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
