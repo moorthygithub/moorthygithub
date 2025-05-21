@@ -65,8 +65,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=onedark&row=1&column=6" alt="Trophies" />
-  <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" />
 
 </p>
 
