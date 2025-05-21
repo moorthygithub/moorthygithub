@@ -51,11 +51,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Radix_UI-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMuMC9zdmcnPjxjaXJjbGUgY3g9JzEyJyBjeT0nMTInIHI9JzEwJyBzdHJva2U9J2dyYXknIHN0cm9rZS13aWR0aD0nMicgZmlsbD0nbm9uZScvPjwvc3ZnPg==" width="24" height="24" alt="Radix UI" title="Radix UI"/>
+<!--   <img src="https://img.shields.io/badge/-Radix_UI-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMuMC9zdmcnPjxjaXJjbGUgY3g9JzEyJyBjeT0nMTInIHI9JzEwJyBzdHJva2U9J2dyYXknIHN0cm9rZS13aWR0aD0nMicgZmlsbD0nbm9uZScvPjwvc3ZnPg==" width="24" height="24" alt="Radix UI" title="Radix UI"/> -->
+  🧩 <a href="https://www.radix-ui.com/" target="_blank">Radix UI</a>
+
   &nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1674448947252594688/ROAaHzsb_400x400.png" width="24" height="24" alt="TanStack Query" title="TanStack Query" />
+📦 <a href="https://tanstack.com/query/latest" target="_blank">TanStack Query</a>
   &nbsp;
-  <img src="https://ui.shadcn.com/favicon.ico" width="24" height="24" alt="ShadCN UI" title="ShadCN UI"/>
+💠 <a href="https://ui.shadcn.com/" target="_blank">ShadCN UI</a>
 </p>
 
 ---
@@ -63,7 +65,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=onedark&row=1&column=6" alt="Trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=onedark&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moorthygithub" alt="moorthygithub" /> -->
+
 </p>
 
 ---
