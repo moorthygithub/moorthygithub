@@ -59,6 +59,37 @@
 </p>
 
 ---
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3>🚀 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,mui" alt="Frontend Skills" />
+</p>
+
+<h3>🧩 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python" alt="Backend Skills" />
+</p>
+
+<h3>🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+</p>
+
+<h3>🧠 Libraries & UI Frameworks</h3>
+<p align="center">
+  <a href="https://www.radix-ui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Radix%20UI-%23716DEA?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+  </a>
+  &nbsp;
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
+  </a>
+  &nbsp;
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ShadCN%20UI-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="ShadCN UI" />
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
 
