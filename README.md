@@ -60,9 +60,7 @@
 
 ---
 
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
+### 🏆 GitHub Achievements
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" 
