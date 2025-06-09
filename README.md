@@ -64,10 +64,11 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=15" 
-    alt="GitHub Trophies" 
+    src="https://github-profile-trophy.vercel.app/?username=moorthygithub&theme=gruvbox&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10&title=Stars,Followers,Commit,Issues,PullRequest,Repositories" 
+    alt="GitHub Trophies"
   />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
