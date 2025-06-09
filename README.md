@@ -39,26 +39,6 @@
 </p>
 
 ---
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,mui,nodejs,express,mysql,python" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
-<p align="center">
-  🧩 <a href="https://www.radix-ui.com/" target="_blank">Radix UI</a>
-  &nbsp;
-  📦 <a href="https://tanstack.com/query/latest" target="_blank">TanStack Query</a>
-  &nbsp;
-  💠 <a href="https://ui.shadcn.com/" target="_blank">ShadCN UI</a>
-</p>
-
----
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3>🚀 Frontend</h3>
