@@ -43,7 +43,7 @@
 
 <h3>🚀 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,mui" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,mui" alt="Frontend Skills" />
 </p>
 
 <h3>🧩 Backend</h3>
