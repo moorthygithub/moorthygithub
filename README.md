@@ -58,6 +58,10 @@
 
 <h3>🧠 Libraries & UI Frameworks</h3>
 <p align="center">
+  <a href="https://ant.design" target="_blank">
+  <img src="https://img.shields.io/badge/Ant%20Design-%230170FF?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+</a>
+
   <a href="https://www.radix-ui.com/" target="_blank">
     <img src="https://img.shields.io/badge/Radix%20UI-%23716DEA?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
   </a>
