@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Passionate Coder</h3>
 
 <p align="center">
-  <a href="https://moorthyprotfolio.netlify.app" target="_blank">
+  <a href="https://moorthy-dev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1e90ff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:moorthy.chandiran21@gmail.com">
