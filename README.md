@@ -80,4 +80,3 @@
 ### 🧠 Fun Fact
 ```bash
 I debug like a detective 🕵️‍♂️ — one console.log() at a time!
-thisis my bio make in this crt
