@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-👨‍💻 **Full Stack Developer & React Specialist** with 1 year of hands-on experience building **scalable web applications, dynamic user interfaces, and responsive designs**.  
+👨‍💻 **Full Stack Developer & React Specialist** with 1.5 year of hands-on experience building **scalable web applications, dynamic user interfaces, and responsive designs**.  
 🔭 **Currently working as a React Developer** at **AG Solutions**, delivering modern, performant web apps and collaborating on full-stack projects.  
 💬 Skilled in **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Python, MySQL, MongoDB**, with a passion for **UI/UX, component-driven design, and clean code practices**.  
 🌐 Explore my work and projects at [My Portfolio](https://moorthy-dev.netlify.app).  
