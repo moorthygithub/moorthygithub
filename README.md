@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moorthy Chandiran </h1>
-<h3 align="center">💻 Full Stack Developer | Passionate Coder</h3>
+<h3 align="center">💻 Frontend Developer | Passionate Coder</h3>
 
 <p align="center">
   <a href="https://moorthy-dev.netlify.app" target="_blank">
