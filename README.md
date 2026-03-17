@@ -18,7 +18,7 @@
 ### 🚀 About Me
 👨‍💻 **Full Stack Developer & React Specialist** with 1.5 year of hands-on experience building **scalable web applications, dynamic user interfaces, and responsive designs**.  
 🔭 **Currently working as a React Developer** at **AG Solutions**, delivering modern, performant web apps and collaborating on full-stack projects.  
-💬 Skilled in **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Python, MySQL, MongoDB**, with a passion for **UI/UX, component-driven design, and clean code practices**.  
+💬 Skilled in **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Python, Golang, MySQL, MongoDB**, with a passion for **UI/UX, component-driven design, and clean code practices**.  
 🌐 Explore my work and projects at [My Portfolio](https://moorthy-dev.netlify.app).  
 📫 Feel free to reach out: **moorthy.chandiran21@gmail.com**
 
@@ -54,6 +54,10 @@
 ![Yup](https://img.shields.io/badge/Yup-9B59B6?style=for-the-badge&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-4B4BFF?style=for-the-badge&logoColor=white)
 
+**Testing:**  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -67,16 +71,31 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moorthygithub&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moorthygithub&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moorthygithub&theme=dark" alt="GitHub Streak" height="150"/>
-</p>
+## GitHub Stats
+ 
+<div align="center">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=moorthygithub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moorthygithub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moorthygithub&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="160"/>
+ 
+</div>
 
 ---
 
 ### 🧠 Fun Fact
 ```bash
 I debug like a detective 🕵️‍♂️ — one console.log() at a time!
+```
+---
+ 
+<div align="center">
+ 
+*crafted with precision · deployed with passion*
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=moorthygithub&color=58a6ff&style=flat-square&label=profile+views)
+ 
+</div>
+
